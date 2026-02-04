@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of MediLink+",
+  "description": "A comprehensive healthcare platform for migrant workers, bridging the gap between patients, doctors, and government health services across India.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
